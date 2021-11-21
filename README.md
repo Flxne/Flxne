@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fl1n3
-- 👀 I’m interested in C++, C#, Java, Javascript, Python
+- 👀 I’m interested in C++, C#, Java, Javascript, Node.js TypeScript, Python
 
 <!---
 Fl1n3/Fl1n3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
